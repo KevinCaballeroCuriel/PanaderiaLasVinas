@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VISTA", "PedidosLasViñas\VISTA.csproj", "{592E7542-98C1-4AA0-B3C9-7035F330B750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MODELO", "MODELO\MODELO.csproj", "{6390E7E4-1398-4798-8310-93A69C35C873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CONTROLADOR", "CONTROLADOR\CONTROLADOR.csproj", "{82584D98-82AA-45B4-ACA9-89115414A90D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{592E7542-98C1-4AA0-B3C9-7035F330B750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592E7542-98C1-4AA0-B3C9-7035F330B750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592E7542-98C1-4AA0-B3C9-7035F330B750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592E7542-98C1-4AA0-B3C9-7035F330B750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6390E7E4-1398-4798-8310-93A69C35C873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6390E7E4-1398-4798-8310-93A69C35C873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6390E7E4-1398-4798-8310-93A69C35C873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6390E7E4-1398-4798-8310-93A69C35C873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82584D98-82AA-45B4-ACA9-89115414A90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82584D98-82AA-45B4-ACA9-89115414A90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82584D98-82AA-45B4-ACA9-89115414A90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82584D98-82AA-45B4-ACA9-89115414A90D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E56C3820-8B0A-4BD2-B3E8-75876A090CB2}
+	EndGlobalSection
+EndGlobal
